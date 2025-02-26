@@ -1,0 +1,10 @@
+cmake_minimum_required(VERSION 3.5.0)
+project(load_model_cpp VERSION 0.1.0 LANGUAGES C CXX)
+set(CMAKE_EXPORT_COMPILE_COMMANDS ON)
+set(CMAKE_CXX_STANDARD 17)
+set(CMAKE_CXX_STANDARD_REQUIRED True)
+find_package(OpenCV 4 REQUIRED)
+add_executable(load_model_cpp main.cpp)
+
+target_include_directories(load_model_cpp PUBLIC ${OpenCV_INCLUDE_DIRS})
+target_link_libraries(load_model_cpp ${OpenCV_LIBS})

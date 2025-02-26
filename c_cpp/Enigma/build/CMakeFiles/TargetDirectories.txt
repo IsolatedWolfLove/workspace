@@ -1,0 +1,3 @@
+/home/ccy/workspace/c_cpp/Enigma/build/CMakeFiles/Enigma.dir
+/home/ccy/workspace/c_cpp/Enigma/build/CMakeFiles/edit_cache.dir
+/home/ccy/workspace/c_cpp/Enigma/build/CMakeFiles/rebuild_cache.dir

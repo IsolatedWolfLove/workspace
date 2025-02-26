@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/ccy/workspace/opencv/workspace/my_homework_5/build",
+  "command": "/usr/bin/c++  -isystem /usr/include/opencv4  -o CMakeFiles/my_homework_5.dir/main.cpp.o -c /home/ccy/workspace/opencv/workspace/my_homework_5/main.cpp",
+  "file": "/home/ccy/workspace/opencv/workspace/my_homework_5/main.cpp"
+}
+]

@@ -1,0 +1,3 @@
+/home/ccy/workspace/opencv/workspace/my_homework_5/build/CMakeFiles/my_homework_5.dir
+/home/ccy/workspace/opencv/workspace/my_homework_5/build/CMakeFiles/edit_cache.dir
+/home/ccy/workspace/opencv/workspace/my_homework_5/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/ccy/workspace/c_cpp/Enigma/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/Enigma.dir/decode.cpp.o -c /home/ccy/workspace/c_cpp/Enigma/decode.cpp",
+  "file": "/home/ccy/workspace/c_cpp/Enigma/decode.cpp"
+}
+]
